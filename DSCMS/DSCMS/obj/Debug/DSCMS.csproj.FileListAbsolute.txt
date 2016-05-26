@@ -1,0 +1,5 @@
+c:\users\madusankagmt\documents\visual studio 2012\Projects\DSCMS\DSCMS\bin\DSCMS.dll
+c:\users\madusankagmt\documents\visual studio 2012\Projects\DSCMS\DSCMS\bin\DSCMS.pdb
+c:\users\madusankagmt\documents\visual studio 2012\Projects\DSCMS\DSCMS\obj\Debug\DSCMS.dll
+c:\users\madusankagmt\documents\visual studio 2012\Projects\DSCMS\DSCMS\obj\Debug\DSCMS.pdb
+c:\users\madusankagmt\documents\visual studio 2012\Projects\DSCMS\DSCMS\obj\Debug\DSCMS.csprojResolveAssemblyReference.cache
